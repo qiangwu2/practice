@@ -1,0 +1,34 @@
+1 
+(i) B
+(ii) C
+(iii) ACD
+(iv) C
+(v) D
+(vi) C
+
+2
+(i) AC
+(ii) ABC
+(iii) D
+(iv) ABCD/ABC (I want to see how many people realize D is true, maybe we will not take points off D)
+(v) ACD/AD (there is a misspelling of Generalized to penalized, so C will be counded as correct either way)
+(vi) ABCD
+
+3
+(i) AC
+(ii) AC
+(iii) AB
+
+4
+(i) A
+(ii) A
+(iii) AC
+
+5
+(i) D
+(ii) B
+(iii) ACD
+(iv) C
+(v) BC
+(vi) B
+(vii) ACD
